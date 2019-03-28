@@ -1,0 +1,291 @@
+body,html {
+	height: 100%;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.tickets {
+	width: 100%;
+	height: 100%;
+}
+
+.navigationBar_page7 {
+	width: 100%;
+	height: 60px;
+	position: absolute;
+	top: 24;
+	left: 0;
+	right: 0;
+}
+
+.THE_ART_MUSEUM_page7 {
+	width: 50px;
+	height: 41px;
+	position: absolute;
+	top: 12px;
+	left: 12px;
+	font-size: 10px;
+}
+
+.Plan_Your_Visit_page7 {
+	height: 22px;
+	color: #FF473A;
+	font-size: 18px;
+	text-align: center;
+	line-height: 60px;
+}
+
+.menu_page7 {
+	width: 24px;
+	height: 24px;
+	background-image: url('../pics/3_line_menu.png');
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+	right: 20px;
+	line-height: 60px;
+}
+
+.content_page7 {
+	position: absolute;
+	top: 80px;
+	bottom: 80px;
+	left: 0;
+	right: 0;
+}
+
+.Skip_the_Line_page7 {
+	width: 348px;
+	height: 60px;
+	font-size: 24px;
+	color: #000000;
+	position: absolute;
+	left: 12px;
+	top: 12px;
+}
+
+.All_Exhibitions_page7 {
+	width: 275px;
+	height: 36px;
+	position: absolute;
+	left: 12px;
+	top: 72px;
+	font-size: 12px;
+	color: #FF473A;
+	font-weight: bold;
+}
+
+.date_page7 {
+	position: absolute;
+	height: 84px;
+	left: 12px;
+	right: 15px;
+	top: 108.51px;
+}
+
+.Today_page7 {
+	width: 72px;
+	height: 23.72px;
+	position: absolute;
+	left: 15.25px;
+	top: 16px;
+	font-size: 18px;
+	color: #D4D4D4;
+}
+
+.Tommorow_page7 {
+	width: 125px;
+	height: 23.72px;
+	position: absolute;
+	left: calc(50% - 125px/2 + 0.5px);
+	top: calc(50% - 23.72px/2 - 20.14px);
+	font-size: 18px;
+	text-align: center;
+	text-decoration-line: underline;
+	color: #050505;
+}
+
+.Other_page7 {
+	width: 72px;
+	height: 23.72px;
+	position: absolute;
+	right: 2.25px;
+	top: 16px;
+	font-size: 18px;
+	color: #D4D4D4;
+}
+
+.March_22_2016_page7 {
+	width: 348px;
+	height: 35px;
+	position: absolute;
+	left: calc(50% - 348px/2);
+	top: calc(50% - 35px/2 + 25.5px);
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	font-weight: bold;
+}
+
+.left_group_page7 {
+	position: absolute;
+	width: 94.31px;
+	height: 149.39px;
+	left: 27.25px;
+	top: 246.56px;
+
+}
+
+.Adults_page7 {
+	position: absolute;
+	width: 70px;
+	height: 28px;
+	left: 27.56px;
+	top: calc(50% - 28px/2 + 10.56px);
+	font-size: 18px;
+	color: #000000;
+}
+
+.Seniors_page7 {
+	position: absolute;
+	width: 94px;
+	height: 28px;
+	left: 27.56px;
+	top: calc(50% - 28px/2 + 72.05px);
+	font-size: 18px;
+	color: #000000;
+}
+
+.Students_page7 {
+	position: absolute;
+	width: 94px;
+	height: 28px;
+	left: 27.25px;
+	top: calc(50% - 28px/2 + 131.95px);
+	font-size: 18px;
+	color: #000000;
+}
+
+.right_group_page7 {
+	position: absolute;
+	width: 64.5px;
+	height: 134.22px;
+	left: 278.62px;
+	top: 256.2px;
+
+}
+
+.Restangle-1_page7 {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	right: 78.38px;
+	top: calc(50% - 18px/2 + 15.2px);
+	border: 1px solid #D4D4D4;
+	box-sizing: border-box;
+	text-align: center;
+	color: #D4D4D4;
+}
+
+.Restangle-1plus_page7 {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	right: 31.88px;
+	top: calc(50% - 18px/2 + 15.2px);
+	border: 1px solid #D4D4D4;
+	box-sizing: border-box;
+	text-align: center;
+	color: #D4D4D4;
+}
+
+.Restangle-2_page7 {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	right: 78.38px;
+	top: calc(50% - 18px/2 + 72.05px);
+	border: 1px solid #D4D4D4;
+	box-sizing: border-box;
+	text-align: center;
+	color: #D4D4D4;
+}
+
+.Restangle-2plus_page7 {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	right: 31.88px;
+	top: calc(50% - 18px/2 + 72.05px);
+	border: 1px solid #D4D4D4;
+	box-sizing: border-box;
+	text-align: center;
+	color: #D4D4D4;
+}
+
+
+.Restangle-3_page7 {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	right: 78.38px;
+	top: calc(50% - 18px/2 + 131.43px);
+	border: 1px solid #D4D4D4;
+	box-sizing: border-box;
+	text-align: center;
+	color: #D4D4D4;
+}
+
+.Restangle-3plus_page7 {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	right: 31.88px;
+	top: calc(50% - 18px/2 + 131.43px);
+	border: 1px solid #D4D4D4;
+	box-sizing: border-box;
+	text-align: center;
+	color: #D4D4D4;
+}
+
+.nuber1_page7 {
+	position: absolute;
+	width: 7.5px;
+	height: 16.5px;
+	right: 61.88px;
+	top: calc(50% - 16.5px/2 + 14.45px);
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: normal;
+	text-decoration-line: underline;
+	color: #000000;
+}
+
+.nuber2_page7 {
+	position: absolute;
+	width: 7.5px;
+	height: 16.5px;
+	right: 61.88px;
+	top: calc(50% - 16.5px/2 + 72.05px);
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: normal;
+	color: #D4D4D4;
+}
+
+.nuber3_page7 {
+	position: absolute;
+	width: 7.5px;
+	height: 16.5px;
+	right: 61.88px;
+	top: calc(50% - 16.5px/2 + 131.43px);
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: normal;
+	color: #D4D4D4;
+}

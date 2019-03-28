@@ -1,0 +1,100 @@
+html, body {
+	height:100%;
+	margin:0;
+	font-family: 'Montserrat', sans-serif;
+	margin: 5px;
+}
+.page_four{
+	width:100%;
+	height: 100%;
+	position: relative;
+}
+.page_four_header{
+	display: flex;
+	margin: 0 auto;
+	background-color: lightblue;
+	height: 60px;
+	width: 100%;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.page_four_header_left{
+	width: 50px;
+	height: 41px;
+	font-size: 14px;
+	color: #000000;
+	text-align: left;
+}
+
+.page_four_header_center{
+	width: 175px;
+	height: 22px;
+	font-size: 18px;
+	line-height: normal;
+	text-align: center;
+	color: #FF473A;
+	margin-left: calc(50% - 275px/2);
+}
+
+.page_four_header_right{
+	width: 24px;
+	height: 24px;
+	background-size: cover;
+	background-image: url('../pics/page4/menu.png');
+	margin-left: auto;
+	margin-right: 10px;
+
+}
+.page_four_text_after_header{
+
+	background-size: cover;
+	background-position: center;
+	background-color: white;
+
+}.page_four_text_after_header{
+	width: 100%;
+	height: 100px;
+}
+.page_four_callage{
+	width: 100%;
+	height: 300px;
+	background-image: url('../pics/page4/foto.png');
+	background-size: cover;
+	margin-top: 50px;
+}
+.page_four_text_after_one{
+	font-size: 24px;
+	line-height: normal;
+	color: #000000;
+	margin: 10px 0;
+
+}
+.page_four_text_footer{
+	height: 300px;
+	font-weight: 300;
+	font-size: 10px;
+	line-height: 15px;
+}
+.page_four_text_after_two{
+	font-size: 20px;
+	line-height: normal;
+	color: #FF473A;
+	margin: 10px 0;
+}
+.age_four_text_after_three{
+	margin: 10px 0;
+}
+
+.page_four_text_after_callage{
+	width: 100%;
+	height: 50px;
+	background-image: url('../pics/page4/Image Caption.png');
+	background-size: cover;
+	
+}
