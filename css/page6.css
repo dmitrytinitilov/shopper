@@ -5,6 +5,9 @@ body,html{
 
 }
 
+
+
+
 input::placeholder{
 	color:#FF473A;
 }
@@ -69,7 +72,7 @@ color:#FF473A;
 
 }
 
-.container{
+.container_img{
 width: 100%;
 height: 80%;
 margin: 0 auto;
