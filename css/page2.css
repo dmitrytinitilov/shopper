@@ -33,7 +33,7 @@ html, body {
 	height: 24px;
 	right: 12px;
 	top: 18.5px;
-	background-image: url(../img/menu.svg);
+	background-image: url(../pic/menu.svg);
 	background-size: 18px 12px;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -41,7 +41,7 @@ html, body {
 .home_image{
 	height: 250px;
 	width: 100%;
-	background-image: url(../img/home_screen.png);
+	background-image: url(../pic/home_screen.png);
 }
 .home_featured{
 	width: 100%;
@@ -129,7 +129,7 @@ html, body {
 	display: inline-block;
 	width: 24px;
 	height: 24px;
-	-webkit-mask-image:url(../img/location.svg);
+	-webkit-mask-image:url(../pic/location.svg);
 	background-color: hsla(4, 100%, 61%, 1);
 	-webkit-mask-repeat:no-repeat;
 }
@@ -137,7 +137,7 @@ html, body {
 	display: inline-block;
 	width: 24px;
 	height: 24px;
-	-webkit-mask-image:url(../img/time.svg);
+	-webkit-mask-image:url(../pic/time.svg);
 	background-color: hsla(4, 100%, 61%, 1);
 	-webkit-mask-repeat:no-repeat;
 }

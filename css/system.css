@@ -1,0 +1,13 @@
+.back_container {
+	width:100%;
+}
+
+.container {
+	width: 600px;
+}
+
+@media (max-width: 800px) {
+	.container {
+		width: 100%;
+	} 
+}
