@@ -11,4 +11,8 @@ function pageLoader(pageName){
 
 	xhr.send();
 }
-pageLoader("index.html")	
+//Example
+/*var button=document.querySelector('.button')
+button.onclick=function(){
+	pageLoader('index.html')
+}	*/
