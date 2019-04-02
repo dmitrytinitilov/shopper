@@ -1,5 +1,5 @@
 var container = document.querySelector('.page_container')
-function pageLoader(input){
+function pageLoader(pageName){
 	var xhr=new XMLHttpRequest();
 
 	xhr.onreadystatechange=function(){
@@ -7,7 +7,8 @@ function pageLoader(input){
 			container.innerHTML=xhr.responseText
 		}
 	}
-	xhr.open("GET", input,true);
+	xhr.open("GET", pageName,true);
 
 	xhr.send();
 }
+pageLoader("index.html")	
