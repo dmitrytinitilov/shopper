@@ -1,4 +1,4 @@
-#SPA example using no-framework
+# SPA example using no-framework
 
 To start
 
