@@ -1,6 +1,7 @@
-var container = document.querySelector('.page_container')
+const container = document.querySelector(".page_container")
+
 function pageLoader(pageName){
-	var xhr=new XMLHttpRequest();
+	let xhr=new XMLHttpRequest();
 
 	xhr.onreadystatechange=function(){
 		if(xhr.readyState==4 && xhr.status==200){
