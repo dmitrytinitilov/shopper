@@ -18,6 +18,9 @@
     "no-empty-function": [1, "functions"],
     "quotes": [1, "double"],
     "indent": [1, "tab"],
-    "consistent-return": [2, "tab"]
+    "consistent-return": [2, "tab"],
+    "no-console": "off",
+    "no-lonely-if": "error"
+
   }
 }
