@@ -1,3 +1,5 @@
+#SPA example using no-framework
+
 To start
 
 ```cli
