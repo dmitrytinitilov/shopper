@@ -20,7 +20,7 @@
     "indent": [1, "tab"],
     "consistent-return": [2, "tab"],
     "no-console": "off",
-    "no-lonely-if": "error"
-
+    "no-lonely-if": "error",
+    "no-script-url": ["error"] 
   }
 }
