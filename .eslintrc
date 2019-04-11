@@ -14,6 +14,7 @@
   "rules": {
     // Tons of rules you can use, for example...
     "quotes": [1, "double"],
-    "indent": [1, "tab"]
+    "indent": [1, "tab"],
+    "consistent-return": [2, "tab"]
   }
 }
