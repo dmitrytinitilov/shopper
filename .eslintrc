@@ -13,6 +13,9 @@
   // To give you an idea how to override rule options:
   "rules": {
     // Tons of rules you can use, for example...
-    "no-empty-function": [1, "functions"]
+    "no-empty-function": [1, "functions"],
+    "quotes": [1, "double"],
+    "indent": [1, "tab"],
+    "consistent-return": [2, "tab"]
   }
 }
