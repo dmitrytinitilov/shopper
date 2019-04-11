@@ -15,7 +15,7 @@
     "no-empty-function": [1, { "allow": ["functions"] }],
     "quotes": [1, "double"],
     "indent": [1, "tab"],
-    "consistent-return": [2, "tab"],
+    "consistent-return": [2, {"treatUndefinedAsUnspecified": false}],
     "no-console": "off",
     "no-lonely-if": "error",
     "no-script-url": ["error"],
