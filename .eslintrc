@@ -12,7 +12,7 @@
   },
   // To give you an idea how to override rule options:
   "rules": {
-    "no-empty-function": [1, "functions"],
+    "no-empty-function": [1, { "allow": ["functions"] }],
     "quotes": [1, "double"],
     "indent": [1, "tab"],
     "consistent-return": [2, "tab"],
