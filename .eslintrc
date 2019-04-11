@@ -12,7 +12,11 @@
   },
   // To give you an idea how to override rule options:
   "rules": {
-    "no-script-url" : [error] 
-    "quotes": [1, "double"]
+    "no-script-url" : [error], 
+    "quotes": [1, "double"],
+    // Tons of rules you can use, for example...
+    "quotes": [1, "double"],
+    "indent": [1, "tab"],
+    "consistent-return": [2, "tab"]
   }
 }
